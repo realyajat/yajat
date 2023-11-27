@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yajat</h1>
+<h1 align="center">Hi 👋, I'm ![world-map-black-and-white-vector-6349485](https://github.com/realyajat/yajat/assets/85749299/23d97f4c-5040-4e0c-9bc7-8afb9829af35)
+Yajat</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 - 🔭 I’m currently working on **Disease Detection**
